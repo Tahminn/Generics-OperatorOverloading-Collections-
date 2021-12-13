@@ -1,0 +1,14 @@
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\bin\Debug\netcoreapp3.1\SortingByUsingOperator.exe
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\bin\Debug\netcoreapp3.1\SortingByUsingOperator.deps.json
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\bin\Debug\netcoreapp3.1\SortingByUsingOperator.runtimeconfig.json
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\bin\Debug\netcoreapp3.1\SortingByUsingOperator.runtimeconfig.dev.json
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\bin\Debug\netcoreapp3.1\SortingByUsingOperator.dll
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\bin\Debug\netcoreapp3.1\SortingByUsingOperator.pdb
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\obj\Debug\netcoreapp3.1\SortingByUsingOperator.csproj.AssemblyReference.cache
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\obj\Debug\netcoreapp3.1\SortingByUsingOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\obj\Debug\netcoreapp3.1\SortingByUsingOperator.AssemblyInfoInputs.cache
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\obj\Debug\netcoreapp3.1\SortingByUsingOperator.AssemblyInfo.cs
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\obj\Debug\netcoreapp3.1\SortingByUsingOperator.csproj.CoreCompileInputs.cache
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\obj\Debug\netcoreapp3.1\SortingByUsingOperator.dll
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\obj\Debug\netcoreapp3.1\SortingByUsingOperator.pdb
+C:\Users\tahmi\source\repos\Operator, Overloading, Generic\SortingByUsingOperator\obj\Debug\netcoreapp3.1\SortingByUsingOperator.genruntimeconfig.cache
